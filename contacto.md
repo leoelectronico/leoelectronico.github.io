@@ -1,7 +1,6 @@
 [Nosotros].(/nosotros.md).[Servicios].(/Servicios.md).[FAQ](FAQ.md).[Ubicacion](Ubicacion.md).[contacto](/Contacto.md)
-**TE ATENDEMOS TODOS LOS DIAS
 
-<form action="Aquí va tu link de formspree.io" method="post">
+<form action="https://formspree.io/f/xknyvzjy" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
