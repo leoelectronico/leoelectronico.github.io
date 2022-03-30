@@ -4,11 +4,7 @@
 <form action="https://formspree.io/f/mvolbqzy" method="post">
 Name: <input type="texto" name="leonardo"><br>
 E-mail: <input type="text" name="Leonardojoel09mv@gmail.com"><br>
-   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-<input type="submit">
+<input type="text" id="nombre"  
   
 </form>
 
