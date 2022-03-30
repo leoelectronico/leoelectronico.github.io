@@ -2,9 +2,9 @@
 **TE ATENDEMOS TODOS LOS DIAS
 
 <form action="https://formspree.io/f/mvolbqzy" method="post">
-Name: <input type="texto" name="leonardo"><br>
-E-mail: <input type="text" name="Leonardojoel09mv@gmail.com"><br>
-<input type="text" id="nombre"  
+Name: <input type="texto" name="nombre"><br>
+E-mail: <input type="text" name="correo"><br>
+ 
   
 </form>
 
